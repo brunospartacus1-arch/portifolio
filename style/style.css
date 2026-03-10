@@ -123,7 +123,7 @@ font-family: var(--font-primaria);
 
 }
 .minhaimag {
-    width: 50%;
+    width: 30%;
     height: auto;
     border-radius: 10px;
 
@@ -143,4 +143,5 @@ font-family: var(--font-primaria);
     .apresentacao__conteudo {
         width: auto;
     }
+
 }
